@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
-###
-
 <div align="justify">
 Halo! Saya **UPIstudio** — seorang kreator serbaguna yang menguasai berbagai bidang kreatif dan teknologi.  
 Mulai dari desain grafis, pemrograman, penulisan, hingga desain 3D.  
