@@ -1,7 +1,7 @@
 # 👋 Hi, I’m UPIstudio
 
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J3d2NrZXg2N25paXZhc3EzMG0weGxhZW9hNzloeXR6dWhrcjM2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qCR6tGCytz05aXVwr/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
