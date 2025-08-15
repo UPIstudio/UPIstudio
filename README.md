@@ -7,7 +7,7 @@
 ###
 
 <div align="justify">
-Halo! Saya UPIstudio — seorang kreator serbaguna yang menguasai berbagai bidang kreatif dan teknologi.  
+Halo! Saya Luthfi — seorang kreator serbaguna yang menguasai berbagai bidang kreatif dan teknologi.  
 Mulai dari desain grafis, pemrograman, penulisan, hingga desain 3D.  
 Saat ini saya adalah pelajar kelas 12 di SMKN 1 Katapang yang terus mengasah keterampilan untuk menghasilkan karya bermanfaat dan inspiratif.
 </div>
