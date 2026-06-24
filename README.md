@@ -29,10 +29,11 @@ Saya adalah lulusan SMKN 1 Katapang yang aktif mengeksplorasi ekosistem web mode
 - **CapCut** – Editing video kreatif
 
 ##### ✏️ Desain Offline
-- Gambar ilustrasi & lettering tulisan tangan
+- Gambar ilustrasi
+- Character
 
 ##### 🖥️ Desain 3D
-- **Blender** – Modelling, Rendering, Animasi
+- **Blender** – Modelling basic
 
 ##### 📝 Writing
 - Penulisan naskah & cerita pendek
