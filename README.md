@@ -72,4 +72,4 @@ Saya adalah lulusan SMKN 1 Katapang yang aktif mengeksplorasi ekosistem web mode
 
 ---
 
-> “Belajar bukan tentang siapa yang paling cepat, tapi siapa yang paling konsisten.”
+> “Selagi kaki bisa melangkah untuk apa kita menyerah!.”
