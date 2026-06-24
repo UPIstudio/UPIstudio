@@ -7,9 +7,9 @@
 ###
 
 <div align="justify">
-Halo! Saya Luthfi — seorang Full-Stack Web Developer dan kreator serbaguna yang bergerak di persimpangan antara teknologi, keamanan siber, dan desain kreatif. Dari membangun arsitektur backend yang solid hingga merancang antarmuka pengguna yang intuitif, saya fokus menciptakan solusi digital yang berdampak nyata.
+Halo! Saya Luthfi — seorang Full-Stack Web Developer dan kreator serbaguna yang bergerak di persimpangan antara teknologi, dan desain kreatif. Dari membangun arsitektur backend yang solid hingga merancang antarmuka pengguna yang intuitif, saya fokus menciptakan solusi digital yang berdampak nyata.
 
-Saya adalah lulusan SMKN 1 Katapang yang aktif mengeksplorasi ekosistem web modern, IoT, serta audit keamanan sistem.
+Saya adalah lulusan SMKN 1 Katapang yang aktif mengeksplorasi ekosistem web modern.
 </div>
 
 ---
@@ -18,7 +18,7 @@ Saya adalah lulusan SMKN 1 Katapang yang aktif mengeksplorasi ekosistem web mode
 
 ##### 💻 Full-Stack Development & Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
-- **Backend & Frameworks:** Express.js, PHP (CodeIgniter 4)
+- **Backend & Frameworks:** Express.js, PHP (CodeIgniter 4 dan Laravel)
 - **Database & ORM:** PostgreSQL, Prisma ORM, Supabase
 - **Pemrograman lainnya:** C++ (dasar), Python (dasar)
 - **Tools & Platforms:** Git/GitHub, Docker, Postman, Linux (Ubuntu/Arch)
