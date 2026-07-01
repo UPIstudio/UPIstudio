@@ -17,12 +17,12 @@ Saya adalah lulusan SMKN 1 Katapang yang aktif mengeksplorasi ekosistem web mode
 ### 💡 Skills & Technologies
 
 ##### 💻 Full-Stack Development & Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
-- **Backend & Frameworks:** Express.js, PHP (CodeIgniter 4 dan Laravel)
+- **Frontend:** Vue.js, HTML5, CSS3, JavaScript, Tailwind CSS
+- **Backend & Frameworks:** Express.js, Golang (On-learning), PHP (CodeIgniter 4 dan Laravel)
 - **Database & ORM:** PostgreSQL, Prisma ORM, Supabase
 - **Pemrograman lainnya:** C++ (dasar), Python (dasar)
 - **Tools & Platforms:** Git/GitHub, Docker, Postman, Linux (Ubuntu/Arch)
-
+- 
 ##### 🎨 Desain Digital & UI/UX
 - **Figma** – UI/UX & Prototyping
 - **Canva** – Desain cepat & presentasi
